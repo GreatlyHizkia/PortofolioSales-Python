@@ -29,6 +29,17 @@ To understand key business insights from transactional sales data using data vis
 
 ---
 
+## 💡 Business Recommendations
+Based on the analysis, here are a few actionable suggestions for business decision-makers:
+
+- Focus marketing efforts in Naypyitaw to leverage its high revenue potential.
+- Target female customers with promotions on Food & Beverages and Fashion Accessories.
+- Strengthen the membership program to increase customer retention and average transaction value.
+- Partner with digital wallet providers to offer cashback and boost adoption.
+- Use peak sales dates to plan promotional calendars for future campaigns.
+
+---
+
 ## 🛠️ Tools & Libraries
 
 * Python
