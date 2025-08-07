@@ -1,5 +1,3 @@
-# PortofolioSales-Python
-Exploratory data analysis on supermarket sales using Python (Pandas &amp; Matplotlib). Insights cover customer behavior, product trends, payment methods, and sales performance by city and gender.
 # 🛍 Supermarket Sales Analysis using Python
 
 This project is an exploratory data analysis (EDA) of a simulated supermarket sales dataset using Python.
@@ -15,20 +13,19 @@ To understand key business insights from transactional sales data using data vis
 
 ## 📁 Contents
 
-* `Supermarket Sales.ipynb` → Full Python code for data cleaning & visualization
-* `Laporan_Analisis_Supermarket.pdf` → PDF report with 5 key visualizations & insights
-* PNG charts for presentation use
-* (Optional) Slide deck for portfolio
+* `Python_Project.ipynb` → Full Python code for data cleaning & visualization
 
 ---
 
 ## 🔍 Key Insights
 
-* 🏩 Naypyitaw recorded the highest total sales
-* 👩‍👨 Female customers spent more on Food & Beverages
+* Naypyitaw has the highest total sales, followed closely by Yangon and then Mandalay. The sales distribution across the cities is relatively even.
+* Food and beverages is the top-performing product line in terms of total revenue, while Health and beauty has the lowest total sales.
+* Female customers contribute slightly more to the total sales than male customers.
+* The sales distribution between genders varies across product lines. For example, females tend to spend more on Fashion accessories and Food and beverages, while males spend more on Health and beauty.
 * 👥 Member customers had higher average spending per transaction
 * 💳 Cash and E-Wallet were the most used payment methods
-* 🗓 Peak sales occurred on March 9, 2019
+* The time series charts show fluctuations in sales from day to day and week to week. There appears to be some weekly seasonality, with Saturday showing the highest sales. Peak sales occurred on March 9, 2019
 
 ---
 
@@ -37,7 +34,7 @@ To understand key business insights from transactional sales data using data vis
 * Python
 * Pandas
 * Matplotlib
-* Jupyter Notebook
+
 
 ---
 
@@ -50,6 +47,6 @@ It simulates supermarket sales transactions and supports basic exploratory data 
 
 ## 👤 Author
 
-Nama Kamu
-🔗 [LinkedIn](https://linkedin.com/in/namakamu)
+Greatly Hizkia Manua
+🔗 [LinkedIn](https://www.linkedin.com/in/greatlyhizkiamanua/)
 💼 Aspiring Data Analyst | Python | EDA | Visualization
